@@ -1,6 +1,6 @@
-# GestureDeck
+# Presentation Control System
 
-GestureDeck enables users to control PowerPoint presentations seamlessly using hand gestures via a webcam. This project combines the power of OpenCV and Mediapipe for real-time hand gesture recognition and system interaction.
+This system enables users to control PowerPoint presentations seamlessly using hand gestures via a webcam. This project combines the power of OpenCV and Mediapipe for real-time hand gesture recognition and system interaction.
 
 ## Features
 - **Slide Navigation**: Swipe gestures to move between slides.
